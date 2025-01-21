@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Asclepius" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/baktihusada_primary</item>
+        <item name="colorPrimaryVariant">@color/baktihusada_primary_variant</item>
+        <item name="colorOnPrimary">@color/baktihusada_on_primary</item>
+
+        <!-- Warna Sekunder -->
+        <item name="colorSecondary">@color/baktihusada_secondary</item>
+        <item name="colorOnSecondary">@color/baktihusada_on_secondary</item>
+
+        <!-- Warna Latar -->
+        <item name="android:colorBackground">@color/baktihusada_background</item>
+        <item name="colorSurface">@color/baktihusada_surface</item>
+        <item name="colorOnBackground">@color/baktihusada_on_background</item>
+        <item name="colorOnSurface">@color/baktihusada_on_surface</item>
+    </style>
+
+    <style name="Theme.Asclepius" parent="Base.Theme.Asclepius" />
+
+    <style name="ButtonStyle" parent="Widget.Material3.MaterialTimePicker.ImageButton">
+        <item name="android:backgroundTint">@color/baktihusada_primary</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

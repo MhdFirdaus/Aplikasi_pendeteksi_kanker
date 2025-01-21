@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AsclepiusKu</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Hasil Analisis</string>
+    <string name="result_not_found">Upload gambar terlebih dahulu</string>
+    <string name="empty_image_warning">kosong</string>
+    <string name="image_classifier_failed">Image classifier failed to initialize. See error logs for details</string>
+    <string name="image_result">image_rssult\n</string>
+    <string name="inference_time">interface_time</string>
+    <string name="confidence_score">confidence_score</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">save</string>
+    <string name="back">back\n</string>
+    <string name="result_statde">The analysis results stated!</string>
+    <string name="history">History</string>
+    <string name="label">Label</string>
+    <string name="confidence">Confidence</string>
+    <string name="delete_all">delete all\n</string>
+    <string name="history_analisis">History Analisis</string>
+    <string name="news_cancer">Cancer News</string>
+</resources>

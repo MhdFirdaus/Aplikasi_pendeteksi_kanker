@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="delete_button_red">#D32F2F</color> <!-- Merah untuk tombol hapus -->
+    <color name="baktihusada_primary">#4CAF50</color> <!-- Hijau sebagai warna utama -->
+    <color name="baktihusada_primary_variant">#388E3C</color> <!-- Varian warna hijau -->
+    <color name="baktihusada_secondary">#0288D1</color> <!-- Biru sebagai warna sekunder -->
+    <color name="baktihusada_background">#F0F0F0</color> <!-- Abu-abu untuk background -->
+    <color name="baktihusada_surface">#FFFFFF</color> <!-- Putih untuk konten utama -->
+    <color name="baktihusada_on_primary">#FFFFFF</color> <!-- Warna teks di atas warna utama -->
+    <color name="baktihusada_on_secondary">#FFFFFF</color> <!-- Warna teks di atas warna sekunder -->
+    <color name="baktihusada_on_background">#000000</color> <!-- Warna teks di atas background -->
+    <color name="baktihusada_on_surface">#000000</color>
+</resources>
